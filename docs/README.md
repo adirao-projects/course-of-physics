@@ -1,5 +1,5 @@
-# java.util.helpmepls
-java.util.helpmepls; (working title) is a book intended to help those who want to learn how to code but have no clue where to start. Instead of making things super complicated, I start from the absolute basics and work up to slightly more advanced topics as a jumping off point for those who want to learn more. The objective of this book isn't to make you a programming god, but rather to give you the tools to learn how to code on your own.
+# Course on Physics
+I don't like how physics was taught to me in my first few years of undergrad. I think I can do better. I'm organizing my notes into a comprehensive guide (which will be reviewed by professors of course) and using this as my motivation to study in my offtime.
 
 ## docs/
 The docs/ folder hosts the github pages website for this project with download links and such
